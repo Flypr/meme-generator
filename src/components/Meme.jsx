@@ -1,7 +1,7 @@
 import { useState } from "react";
 import memesData from "../memesData";
 
-export default function Meme(props) {
+export default function Meme() {
     const [memeImage, setMemeImage] = useState("http://i.imgflip.com/1bij.jpg");
 
     function getMemeImage() {

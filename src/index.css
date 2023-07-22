@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;500;700&display=swap');
+
 * {
   box-sizing: border-box;
 }
@@ -82,7 +84,6 @@ body {
   font-style: normal;
   font-weight: 700;
   line-height: 1.4;
-  letter-spacing: -0.1em;
 
   cursor: pointer;
 }
